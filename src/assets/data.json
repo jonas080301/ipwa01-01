@@ -1,0 +1,218 @@
+[
+    {
+      "id": "1",
+      "unternehmen": "China (Coal)",
+      "co2": "9,622",
+      "land": "China"
+    },
+    {
+      "id": "2",
+      "unternehmen": "Saudi Arabian Oil Company (Aramco)",
+      "co2": "4,263",
+      "land": "Saudi Arabia"
+    },
+    {
+      "id": "3",
+      "unternehmen": "Gazprom OAO",
+      "co2": "4,652",
+      "land": "Russia"
+    },
+    {
+      "id": "4",
+      "unternehmen": "National Iranian Oil Co",
+      "co2": "2,468",
+      "land": "Iran"
+    },
+    {
+      "id": "5",
+      "unternehmen": "ExxonMobil Corp",
+      "co2": "1,833",
+      "land": "United States"
+    },
+    {
+      "id": "6",
+      "unternehmen": "Coal India",
+      "co2": "892",
+      "land": "India"
+    },
+    {
+      "id": "7",
+      "unternehmen": "Petroleos Mexicanos (Pemex)",
+      "co2": "2,055",
+      "land": "Mexico"
+    },
+    {
+      "id": "8",
+      "unternehmen": "Russia (Coal)",
+      "co2": "1,216",
+      "land": "Russia"
+    },
+    {
+      "id": "9",
+      "unternehmen": "Royal Dutch Shell PLC",
+      "co2": "1,212",
+      "land": "Netherlands"
+    },
+    {
+      "id": "10",
+      "unternehmen": "China National Petroleum Corp (CNPC)",
+      "co2": "1,479",
+      "land": "China"
+    },
+    {
+      "id": "11",
+      "unternehmen": "BP PLC",
+      "co2": "1,072",
+      "land": "United Kingdom"
+    },
+    {
+      "id": "12",
+      "unternehmen": "Chevron Corp",
+      "co2": "1,215",
+      "land": "United States"
+    },
+    {
+      "id": "13",
+      "unternehmen": "Petroleos de Venezuela SA (PDVSA)",
+      "co2": "1,108",
+      "land": "Venezuela"
+    },
+    {
+      "id": "14",
+      "unternehmen": "Abu Dhabi National Oil Co",
+      "co2": "1,135",
+      "land": "United Arab Emirates"
+    },
+    {
+      "id": "15",
+      "unternehmen": "Poland Coal",
+      "co2": "884",
+      "land": "Poland"
+    },
+    {
+      "id": "16",
+      "unternehmen": "Peabody Energy Corp",
+      "co2": "266",
+      "land": "United States"
+    },
+    {
+      "id": "17",
+      "unternehmen": "Sonatrach SPA",
+      "co2": "1,490",
+      "land": "Algeria"
+    },
+    {
+      "id": "18",
+      "unternehmen": "Kuwait Petroleum Corp",
+      "co2": "767",
+      "land": "Kuwait"
+    },
+    {
+      "id": "19",
+      "unternehmen": "Total SA",
+      "co2": "778",
+      "land": "France"
+    },
+    {
+      "id": "20",
+      "unternehmen": "BHP Billiton Ltd",
+      "co2": "588",
+      "land": "Australia"
+    },
+    {
+      "id": "21",
+      "unternehmen": "ConocoPhillips",
+      "co2": "654",
+      "land": "United States"
+    },
+    {
+      "id": "22",
+      "unternehmen": "Petroleo Brasileiro SA (Petrobras)",
+      "co2": "533",
+      "land": "Brazil"
+    },
+    {
+      "id": "23",
+      "unternehmen": "Lukoil OAO",
+      "co2": "557",
+      "land": "Russia"
+    },
+    {
+      "id": "24",
+      "unternehmen": "Rio Tinto",
+      "co2": "297",
+      "land": "United Kingdom"
+    },
+    {
+      "id": "25",
+      "unternehmen": "Nigerian National Petroleum Corp",
+      "co2": "643",
+      "land": "Nigeria"
+    },
+    {
+      "id": "26",
+      "unternehmen": "Petroliam Nasional Berhad (Petronas)",
+      "co2": "995",
+      "land": "Malaysia"
+    },
+    {
+      "id": "27",
+      "unternehmen": "Rosneft OAO",
+      "co2": "571",
+      "land": "Russia"
+    },
+    {
+      "id": "28",
+      "unternehmen": "Arch Coal Inc",
+      "co2": "182",
+      "land": "United States"
+    },
+    {
+      "id": "29",
+      "unternehmen": "Iraq National Oil Co",
+      "co2": "435",
+      "land": "Iraq"
+    },
+    {
+      "id": "30",
+      "unternehmen": "Eni SPA",
+      "co2": "672",
+      "land": "Italy"
+    },
+    {
+      "id": "31",
+      "unternehmen": "Anglo American",
+      "co2": "114",
+      "land": "United Kingdom"
+    },
+    {
+      "id": "32",
+      "unternehmen": "Surgutneftegas OAO",
+      "co2": "482",
+      "land": "Russia"
+    },
+    {
+      "id": "33",
+      "unternehmen": "Alpha Natural Resources Inc",
+      "co2": "343",
+      "land": "United States"
+    },
+    {
+      "id": "34",
+      "unternehmen": "Qatar Petroleum Corp",
+      "co2": "798",
+      "land": "Qatar"
+    },
+    {
+      "id": "35",
+      "unternehmen": "PT Pertamina",
+      "co2": "602",
+      "land": "Indonesia"
+    },
+    {
+      "id": "36",
+      "unternehmen": "Kazakhstan Coal",
+      "co2": "418",
+      "land": "Kazakhstan"
+    }
+  ]
