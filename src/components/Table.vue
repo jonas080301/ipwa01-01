@@ -21,8 +21,8 @@
     name: "Table",
     components: { TableLite },
     setup() {
-      const searchTerm = ref(""); // Search text
-      // make data reactive
+      const searchTerm = ref(""); // Suchbegriff
+      // mache Daten reaktiv
       const data = reactive([]);
       jsonData.forEach(jsdt => {
         data.push({
@@ -33,7 +33,7 @@
         })
       })
 
-      // Table config
+      // Tabellen Konfiguration
       const table = reactive({
         columns: [
           {

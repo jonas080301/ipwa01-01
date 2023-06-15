@@ -1,11 +1,7 @@
 <template>
-  
-  
     <div class="w-full p-10 text-center">
       <h1 class="text-2xl font-bold">Impressum</h1>
       <div class="px-5 rounded overflow-hidden shadow-lg">
-         
-
         <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
         <p>CO2-Footprint<br />
         Musterstra&szlig;e 111<br />
@@ -34,7 +30,5 @@
         <p>Quelle: <a href="https://www.e-recht24.de/impressum-generator.html">https://www.e-recht24.de/impressum-generator.html</a></p>
         <p> -</p>
       </div>
-  
     </div>
-  
 </template>

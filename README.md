@@ -1,7 +1,36 @@
-# Vue 3 + Vite
+# CO² Footprint
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+"npm install"
+"npm run dev"
 
-## Recommended IDE Setup
+```
+ipwa01-co2
+├─ .gitignore
+├─ index.html
+├─ package-lock.json
+├─ package.json
+├─ postcss.config.js
+├─ public
+│  └─ logo.png
+├─ README.md
+├─ src
+│  ├─ App.vue
+│  ├─ assets
+│  │  └─ data.json
+│  ├─ components
+│  │  ├─ Footer.vue
+│  │  ├─ Navbar.vue
+│  │  └─ Table.vue
+│  ├─ main.js
+│  ├─ pages
+│  │  ├─ Datenschutz.vue
+│  │  ├─ Help.vue
+│  │  ├─ Home.vue
+│  │  └─ Impressum.vue
+│  ├─ router
+│  │  └─ index.js
+│  └─ style.css
+├─ tailwind.config.js
+└─ vite.config.js
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+```
